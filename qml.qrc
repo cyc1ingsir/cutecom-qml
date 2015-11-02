@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MainWindow.qml</file>
+        <file>OutputPanel.qml</file>
+        <file>InputPanel.qml</file>
+        <file>ControlPanel.qml</file>
+    </qresource>
+</RCC>
